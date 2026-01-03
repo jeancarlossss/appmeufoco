@@ -8,7 +8,6 @@ O **TaskList** é um aplicativo Android moderno desenvolvido para ajudar na orga
 - **Cronômetro de Foco:** Defina metas de tempo para cada tarefa e acompanhe o progresso em tempo real.
 - **Calendário Semanal:** Navegue facilmente entre os dias para planejar ou revisar suas atividades.
 - **Estatísticas Detalhadas:** Gráficos que mostram seu tempo focado e produtividade por prioridade.
-- **Histórico Completo:** Revise todas as suas conquistas e tarefas concluídas organizadas por data.
 - **Widget de Tela Inicial:** Visualize sua próxima tarefa diretamente da home do celular (usando Jetpack Glance).
 - **Notificações:** Alertas sonoros e por voz (TTS) quando o tempo de uma tarefa termina.
 - **Feedback Visual:** Celebrações com animações Lottie e confetes ao concluir objetivos.
@@ -18,23 +17,26 @@ O **TaskList** é um aplicativo Android moderno desenvolvido para ajudar na orga
 Este projeto foi construído com as melhores práticas de desenvolvimento Android moderno:
 
 - **Linguagem:** [Kotlin](https://kotlinlang.org/)
-- **UI:** [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- **Banco de Dados:** [Room](https://developer.android.com/training/data-storage/room)
-- **Widget:** [Jetpack Glance](https://developer.android.com/jetpack/compose/glance)
+- **UI:** [Jetpack Compose](https://developer.android.com/jetpack/compose) (Interface declarativa)
+- **Banco de Dados:** [Room](https://developer.android.com/training/data-storage/room) (Persistência local)
+- **Widget:** [Jetpack Glance](https://developer.android.com/jetpack/compose/glance) (Widgets com Compose)
+- **Injeção de Dependência:** ViewModel e Factory Pattern
+- **Animações:** [Lottie](https://airbnb.io/lottie/) e Compose Animations
+- **Armazenamento:** [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) (Preferências do Widget)
 - **Arquitetura:** MVVM (Model-View-ViewModel)
 
 ## 📸 Screenshots
 
-| Lista de Tarefas | Estatísticas | Histórico |
-| :---: | :---: | :---: |
+|                           Lista de Tarefas                            |                              Estatísticas                              |                               Histórico                                |
+|:---------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|
 | <img src="app/src/main/java/screenshots/imagen app1.png" width="250"> | <img src="app/src/main/java/screenshots/imagen app 2.png" width="250"> | <img src="app/src/main/java/screenshots/imagen app 3.png" width="250"> |
 
 ## 🏗️ Como rodar o projeto
 
 1. Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/TaskList.git
-```
+   ```bash
+   git clone https://github.com/seu-usuario/TaskList.git
+   ```
 2. Abra o projeto no **Android Studio**.
 3. Aguarde a sincronização do Gradle.
 4. Execute no seu dispositivo ou emulador.
