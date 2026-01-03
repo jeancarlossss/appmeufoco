@@ -25,22 +25,20 @@ Este projeto foi construído com as melhores práticas de desenvolvimento Androi
 
 ## 📸 Capturas de tela
 
+
 | Lista de Tarefas | Estatísticas | Histórico |
-| :---: | :---: | :---: |
-| <img src="app/src/main/java/screenshots/imagen app1.png" width="250"> | <img src="app/src/main/java/screenshots/imagen app 2.png" width="250"> | <img src="app/src/main/java/screenshots/imagen app 3.png" width="250"> |
+| :--- | :--- | :--- |
+| ![Lista](app/src/main/java/screenshots/imagen%20app1.png) | ![Estatísticas](app/src/main/java/screenshots/imagen%20app%202.png) | ![Histórico](app/src/main/java/screenshots/imagen%20app%203.png) |
+
 
 ## 🏗️ Como rodar o projeto
 
 1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/TaskList.git
-```
-
+   ```bash
+   git clone https://github.com/seu-usuario/TaskList.git
+   ```
 2. Abra o projeto no **Android Studio**.
-
 3. Aguarde a sincronização do Gradle.
-
 4. Execute no seu dispositivo ou emulador.
 
 ---
