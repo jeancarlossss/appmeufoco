@@ -27,7 +27,7 @@ Este projeto foi construído com as melhores práticas de desenvolvimento Androi
 
 ## 📸 Screenshots
 
-|                           Lista de Tarefas                            |                              Estatísticas                              |                               Histórico                                |
+|                                Lista                                  |                              Estatísticas                              |                               Histórico                                |
 |:---------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|
 | <img src="app/src/main/java/screenshots/imagen app1.png" width="250"> | <img src="app/src/main/java/screenshots/imagen app 2.png" width="250"> | <img src="app/src/main/java/screenshots/imagen app 3.png" width="250"> |
 
