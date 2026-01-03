@@ -32,12 +32,17 @@ Este projeto foi construído com as melhores práticas de desenvolvimento Androi
 ## 🏗️ Como rodar o projeto
 
 1. Clone este repositório:
+
 ```bash
 git clone https://github.com/seu-usuario/TaskList.git
 ```
+
 2. Abra o projeto no **Android Studio**.
+
 3. Aguarde a sincronização do Gradle.
+
 4. Execute no seu dispositivo ou emulador.
 
 ---
+
 Desenvolvido com ❤️ por Jean Carlos
