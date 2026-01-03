@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Foco</string>
+    <string name="my_tasks">Minhas Tarefas</string>
+    <string name="enter_new_task">Digite uma nova tarefa</string>
+    <string name="add">Adicionar</string>
+    <string name="tasks_progress">Concluídas: %1$d / %2$d  •  %3$d%%</string>
+    <string name="completed">Concluída</string>
+    <string name="in_progress">Em andamento</string>
+    <string name="pending">Pendente</string>
+    <string name="start_task">Iniciar tarefa</string>
+    <string name="pause_task">Pausar tarefa</string>
+    <string name="complete_task">Concluir tarefa</string>
+    <string name="delete_task">Excluir tarefa</string>
+    <string name="delete_task_confirmation">Tem certeza que deseja excluir esta tarefa?</string>
+    <string name="delete">Excluir</string>
+    <string name="cancel">Cancelar</string>
+    
+    <!-- Strings atualizadas/adicionadas para TaskCard/Dialog -->
+    <string name="priority_high">Alta Prioridade</string>
+    <string name="priority_medium">Média Prioridade</string>
+    <string name="priority_low">Baixa Prioridade</string>
+    <string name="reset_time">Resetar</string>
+    <string name="pause_task_action">Pausar</string>
+    <string name="start_task_action">Iniciar</string>
+    <string name="time_label">Tempo</string>
+    <string name="edit_time">Editar</string>
+    <string name="set_target_time_title">Definir Tempo Alvo</string>
+    <string name="set_target_time_prompt">Quanto tempo você quer focar nesta tarefa?</string>
+    <string name="minutes">Minutos</string>
+    <string name="save">Salvar</string>
+    <string name="dialog_cancel">Cancelar</string>
+</resources>
