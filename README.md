@@ -25,21 +25,11 @@ Este projeto foi construído com as melhores práticas de desenvolvimento Androi
 
 ## 📸 Capturas de tela
 
-<!-- O uso de HTML com a classe notranslate impede que o Google Tradutor quebre a tabela -->
-<div class="notranslate" translate="no">
-  <table align="center">
-    <tr>
-      <td align="center"><b>Lista de Tarefas</b></td>
-      <td align="center"><b>Estatísticas</b></td>
-      <td align="center"><b>Histórico</b></td>
-    </tr>
-    <tr>
-      <td><img src="app/src/main/java/screenshots/imagen app1.png" width="250" alt="Lista de Tarefas"></td>
-      <td><img src="app/src/main/java/screenshots/imagen app 2.png" width="250" alt="Estatísticas"></td>
-      <td><img src="app/src/main/java/screenshots/imagen app 3.png" width="250" alt="Histórico"></td>
-    </tr>
-  </table>
-</div>
+
+| Lista de Tarefas                                          | Estatísticas                                                        | Histórico                                                        |
+|:----------------------------------------------------------|:--------------------------------------------------------------------|:-----------------------------------------------------------------|
+| ![Lista](app/src/main/java/screenshots/imagen%20app1.png) | ![Estatísticas](app/src/main/java/screenshots/imagen%20app%202.png) | ![Histórico](app/src/main/java/screenshots/imagen%20app%203.png) |
+
 
 ## 🏗️ Como rodar o projeto
 
