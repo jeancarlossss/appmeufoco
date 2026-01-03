@@ -23,7 +23,7 @@ Este projeto foi construído com as melhores práticas de desenvolvimento Androi
 - **Widget:** [Jetpack Glance](https://developer.android.com/jetpack/compose/glance)
 - **Arquitetura:** MVVM (Model-View-ViewModel)
 
-## 📸 Screenshots
+## 📸 Capturas de tela
 
 | Lista de Tarefas | Estatísticas | Histórico |
 | :---: | :---: | :---: |
